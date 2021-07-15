@@ -1,2 +1,0 @@
-excluide: [".editorconfig", ".gitattributes"]
-include: [".well-known"]
